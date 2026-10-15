@@ -424,7 +424,8 @@ width: 370px;
 background-image: url("https://demo-themewinter.com/gloreya/wp-content/uploads/2019/10/delivery_bg.png");
 background-position: center;
 background-size: cover;
-height: 700px;
+height: auto;
+padding-bottom: 90px;
 margin-top: 100px;
 }
 
@@ -477,10 +478,6 @@ background-color: #881818;
 }
 
 
-
-
-
-
 .hero8-image2 img {
   width: 250px;
   margin-top: 50px;
@@ -497,6 +494,93 @@ background-color: #881818;
   }
 }
 
+
+.hero9-image{
+background-image: url("https://demo-themewinter.com/gloreya/wp-content/uploads/2019/10/news_bg.png");
+background-position: center;
+background-size: cover;
+height: auto;
+padding-bottom: 50px;
+margin-top: 160px;
+}
+
+
+
+.hero9-para h3{
+color: red;
+padding-top: 100px;
+text-align: center;
+}
+
+.hero9-para h1{
+text-align: center;
+padding-top: 20px;
+font-size: 40px;
+color: #222222;
+font-weight: 900;
+}
+
+
+.hero9-image2{
+background-color: white;
+width: 390px;
+height: auto;
+padding-bottom: 40px;
+text-align: center;
+box-shadow: 5px 5px 10px black;
+
+}
+
+
+.hero9-image2 img {
+  width: 100%;
+  transition: transform 0.3s ease;
+}
+
+.hero9-image2 img:hover {
+  transform: translateY(-5px);
+}
+
+
+.hero9-image2 h2{
+padding-top: 20px;
+text-align: center;
+color: #222222;
+font-weight: 900;
+}
+
+.hero9-image2 p{
+padding-top: 10px;
+color: #818192;
+font-size: 17px;
+width: 90%;
+margin: auto;
+line-height: 1.5;
+text-align: center;
+}
+
+.hero9-image button{
+background-color: red;
+color: white;
+width: 180px;
+height: 40px;
+border: none;
+font-size: 15px;
+margin-top: 20px;
+border-radius: 20px;
+}
+
+.hero9-image button:hover{
+background-color: brown;
+
+}
+
+.hero9-flex{
+display: flex;
+justify-content: center;
+gap: 20px;
+margin-top: 60px;
+}
 
 
 
@@ -867,6 +951,32 @@ padding-top: 80px;
     .hero8-image2 img {
   width: 65%;
   animation: bikeRide 6s linear infinite;
+}
+
+.hero9-flex{
+flex-direction: column;
+align-items: center;
+gap: 20px;
+}
+
+
+.hero9-image2{
+width: 80%;
+padding-bottom: 30px;
+}
+
+.hero9-para h1{
+font-size: 24px;
+padding-top: 10px;
+}
+
+.hero9-image2 h2{
+font-size: 22px;
+}
+
+.hero9-image{
+height: 330px;
+background-position: center;
 }
 
 
