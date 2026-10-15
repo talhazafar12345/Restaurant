@@ -11,16 +11,15 @@ function Hero9() {
 
             <div className="hero9-image">
 
-
                 <div className="hero9-para">
                     <h3>News</h3>
                     <h1>This is all about burger</h1>
                 </div>
 
-                
-                <div className="hero9-flex">
+            </div>
 
-            
+            <div className="hero9-flex">
+
                 <div className="hero9-image2">
                     <img src="https://demo-themewinter.com/gloreya/wp-content/uploads/2019/10/news_image3-min.jpg" alt="" />
                     <h2>Labor Depar rules</h2>
@@ -44,46 +43,7 @@ function Hero9() {
                     <button>Read More</button>
                 </div>
 
-                  </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
             </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
         </div>
     )
 }

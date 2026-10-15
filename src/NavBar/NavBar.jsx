@@ -11,6 +11,7 @@ import Hero9 from "../Sections/Hero9"
 
 
 
+
 function NavBar() {
   return (
     <div>
@@ -24,6 +25,7 @@ function NavBar() {
     <Hero7 />
     <Hero8 />
     <Hero9 />
+    
       
     </div>
   )
