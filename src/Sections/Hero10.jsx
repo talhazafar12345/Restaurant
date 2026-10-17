@@ -54,11 +54,11 @@ function Hero10() {
 
             
                   <div className="hero10-link">
-                    <Link className="hero10-all">Home</Link>
+                    <Link to={"/"} className="hero10-all">Home</Link>
                 </div>
 
                 <div className="hero10-link">
-                    <Link className="hero10-all">Menu</Link>
+                    <Link to={"/menu-page"} className="hero10-all">Menu</Link>
                 </div>
 
                 <div className="hero10-link">
