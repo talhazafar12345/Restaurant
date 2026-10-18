@@ -670,33 +670,102 @@ gap: 30px;
 }
 
 
+.hero11-image{
+background-image: url("https://demo-themewinter.com/gloreya/wp-content/uploads/revslider/o/4/475b1d0336bb789b37021b672cec0939.webp");
+background-size: cover;
+background-position: center;
+height: 500px;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+
+.hero11-para h1{
+font-size: 60px;
+color: white;
+}
+
+.hero12-para{
+text-align: center;
+margin-top: 100px;
+}
+
+.hero12-para h1{
+font-size: 45px;
+color: #222222;
+font-weight: 900;
+}
+
+.hero12-image img{
+width: 90px;
+border-radius: 20px;
+margin-top: -30px;
+}
+
+.hero12-para2 h2{
+font-size: 22px;
+}
+
+.hero12-para2 .hero12-p1{
+font-size: 16px;
+width: 80%;
+color: #818192;
+line-height: 1.5;
+
+}
+
+.hero12-flex{
+display: flex;
+align-items: center;
+gap: 20px;
+}
+
+.flex2{
+    margin-right: 150px;
+}
+
+.hero12-p{
+background-color: red;
+width: 110px !important;
+height: 25px;
+border-radius: 20px;
+border: none;
+text-align: center;
+color: white !important;
+font-size: 13px;
+font-weight: bolder;
+display: flex;
+align-items: center;
+justify-content: center;
 
 
+}
+
+.sp1{
+color: gray;
+}
+
+.sp2{
+color: red;
+font-size: 32px;
+}
 
 
+.hero12-flex2{
+display: flex;
+justify-content: center;
+margin-left: 100px;
+margin-top: 60px;
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.hero15{
+margin-top: 100px;
+}
 
 
 
 
 @media (max-width: 500px) {
-
-
-
 
     .navLinks {
         display: none;
@@ -775,7 +844,7 @@ gap: 30px;
     .side-link {
         text-decoration: none;
         color: white;
-        margin: 20px;
+        margin: 15px;
         font-size: 18px;
         font-weight: bold;
         margin-left: 0;
@@ -786,7 +855,7 @@ gap: 30px;
     }
 
     .navBtn {
-        margin: 20px -1px;
+        margin: 10px -1px;
     }
 
     .hero1btn {
@@ -1150,6 +1219,91 @@ gap: 30px;
     gap: 15px;
     text-align: center;
     margin: auto;
+  }
+
+   
+.hero11-image{
+background-position: right;
+height: 400px;
+}
+
+
+  .hero11-para h1 {
+    font-size: 32px;
+    text-align: center;
+  }
+
+  .hero12-para {
+    margin-top: 50px;
+  }
+
+  .hero12-para h1 {
+    font-size: 30px;
+  }
+
+  .hero12-image img {
+    width: 25%;
+    display: flex;
+    align-items: flex-start;
+    margin-top: 0;
+  }
+
+  .hero12-para2 h2 {
+    font-size: 21px;
+    text-align: left;
+    margin-top: 9px;
+  }
+
+
+
+  .hero12-para2 .hero12-p1 {
+    width: 95%;
+    font-size: 15px;
+    text-align: left;
+    line-height: 1.8;
+  }
+
+  .hero12-flex {
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    text-align: center;
+  }
+
+  .hero12-p {
+    width: 35% !important;
+    height: 30px;
+    line-height: 0;
+    margin-top: 5px;
+  }
+
+  .sp1{
+    display: none;
+  }
+
+  .sp2 {
+    font-size: 22px;
+  }
+
+
+  .hero12-flex2 {
+    flex-direction: column;
+    gap: 30px;
+    margin-left: 20px;
+    margin-top: 35px;
+    padding: 0 15px;
+  }
+
+  .flex2{
+    margin-right: 0;
+  }
+
+  .hero15{
+    margin-top: 70px;
+  }
+
+  .flexa{
+    margin-top: 70px;
   }
 
 
