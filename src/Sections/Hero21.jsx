@@ -42,15 +42,6 @@ function Hero21() {
                         <p className="hero21-p1">8.00 - 22.00</p>
                     </div>
                     </div> 
-
-                    <div className="hero21-flexb">
-                    <div>
-                        <p className="hero21-p1">Sunday</p>
-                    </div>
-                    <div>
-                        <p className="hero21-p1">Off</p>
-                    </div>
-                    </div> 
                 </div> 
             </div>
         </div>
