@@ -6,9 +6,6 @@
 function Hero5() {
   return (
     <div className="hero5-flex">
-        
-
-
     <div className="hero5-para">
     <h2>Smoked Brisket</h2>
     <p>Pulled Pork, Beer  Braised Bisket & Quarter</p>

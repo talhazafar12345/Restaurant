@@ -819,7 +819,7 @@ background-color: #DC143C;
     text-align: center;
     background-color: #FFFFFF;
     width: 310px;
-    height: 260px;
+    height: 230px;
     text-align: center;
     display: flex;
     align-items: center;
@@ -834,13 +834,19 @@ background-color: #DC143C;
 
 .phone {
     color: red;
-    font-size: 23px;
+    font-size: 21px;
 }
 
 .hero21-p1 {
-    padding-top: 10px;
     font-size: 16px;
     color: #9FA0A5;
+    width: 100%;
+    margin: auto;
+    line-height: 1.5;
+    position: relative;
+    top: 10px;
+  
+
 }
 
 .hero21-p2 {
@@ -849,12 +855,19 @@ background-color: #DC143C;
     width: 70%;
     margin: auto;
     line-height: 1.5;
+    position: relative;
+    top: 10px;
 }
 
 .hero21-p1a {
-    font-size: 23px;
+    font-size: 21px;
     color: red;
     font-weight: bolder;
+     width: 100%;
+     padding-top: 12px;
+
+ 
+   
 }
 
 .hero21 {
@@ -865,7 +878,8 @@ background-color: #DC143C;
 }
 
 .hero21-para h2 {
-    padding: 10px;
+
+font-size: 20px;
 }
 
 .hero21-flex {
@@ -876,6 +890,11 @@ background-color: #DC143C;
 .hero21-flexa {
     display: flex;
     gap: 25px;
+}
+
+.hero21-flexb {
+    display: flex;
+    gap: 105px;
 }
 
 .hero22-map {
@@ -1065,13 +1084,13 @@ background-color: #DC143C;
     .hero5-flex {
         flex-direction: column;
         align-items: center;
-        margin-top: 70px;
+        margin-top: 50px;
         gap: 20px;
     }
 
     .hero4-para2 h1 {
         font-size: 30px;
-        width: 80%;
+        width: 90%;
         margin: auto;
         margin-top: 20px;
     }
@@ -1090,10 +1109,6 @@ background-color: #DC143C;
     .hero5-para1 button {
         margin-top: 0;
     }
-
-
-
-
 
     .hero6-para {
         display: flex;
@@ -1361,6 +1376,11 @@ background-color: #DC143C;
         text-align: center;
     }
 
+    .hero21-p2{
+    width: 90%;
+    line-height: 1.5;
+    }
+
     .hero12-para {
         margin-top: 50px;
     }
@@ -1381,8 +1401,6 @@ background-color: #DC143C;
         text-align: left;
         margin-top: 9px;
     }
-
-
 
     .hero12-para2 .hero12-p1 {
         width: 95%;
@@ -1441,6 +1459,7 @@ background-color: #DC143C;
     .hero18 {
         flex-direction: column;
         align-items: center;
+        margin-top: 100px;
     }
 
     .hero19 {
@@ -1453,6 +1472,10 @@ background-color: #DC143C;
         align-items: center;
     }
 
+    .hero21-para h2{
+    font-size: 23px;
+    }
+
     .hero22-width{
     width: 80%;
     height: 300px;
@@ -1461,6 +1484,8 @@ background-color: #DC143C;
 
     .hero21-box{
      width: 80%;
+     padding-bottom: 10px;
+ 
     }
 
     .hero22-map{
