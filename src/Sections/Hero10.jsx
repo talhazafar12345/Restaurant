@@ -62,11 +62,11 @@ function Hero10() {
                 </div>
 
                 <div className="hero10-link">
-                    <Link className="hero10-all">Shop</Link>
+                    <Link to={"/shop-page"} className="hero10-all">Shop</Link>
                 </div>
 
                 <div className="hero10-link">
-                    <Link className="hero10-all">Contact</Link>
+                    <Link to={"/contact-page"} className="hero10-all">Contact</Link>
                 </div>
                  </div>
 

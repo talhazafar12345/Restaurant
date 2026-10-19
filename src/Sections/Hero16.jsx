@@ -1,17 +1,8 @@
 
 
-
-
-
-
-
-
-
 function Hero16() {
   return (
     <div>
-
-
 
     <div className="hero12-para">
         <h1>Pizzas</h1>

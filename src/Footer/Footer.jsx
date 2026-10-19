@@ -8,6 +8,8 @@ function Footer() {
     <div>
 
     <Hero10 />
+
+    
       
     </div>
   )

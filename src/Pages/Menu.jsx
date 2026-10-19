@@ -6,12 +6,16 @@ import Hero13 from "../Sections/Hero13"
 import Hero14 from "../Sections/Hero14"
 import Hero15 from "../Sections/Hero15"
 import Hero16 from "../Sections/Hero16"
+import { useEffect } from "react"
 
 
 
 
 
 function Menu() {
+useEffect(()=>{
+window.scrollTo(0,0)
+})
   return (
     <div>
     <Hero1 />

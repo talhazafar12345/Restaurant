@@ -41,8 +41,8 @@ function Hero1() {
                 <div className="navLinks">
                     <Link to={"/"} className="link">Home</Link>
                     <Link to={"/menu-page"} className="link">Menu</Link>
-                    <Link className="link">Shop</Link>
-                    <Link className="link">Contact</Link>
+                    <Link to={"/shop-page"} className="link">Shop</Link>
+                    <Link to={"/contact-page"} className="link">Contact</Link>
                
                 </div>
 
@@ -69,10 +69,10 @@ function Hero1() {
                 <Link to={"/menu-page"} className="side-link">
                     Menu
                 </Link>
-                <Link className="side-link">
+                <Link to={"/shop-page"} className="side-link">
                     Shop
                 </Link>
-                <Link className="side-link">
+                <Link to={"/contact-page"} className="side-link">
                 Contact
                 </Link>
 
