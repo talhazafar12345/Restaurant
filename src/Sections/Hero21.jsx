@@ -7,10 +7,6 @@
 function Hero21() {
     return (
         <div className="hero21">
-
-
-
-
             <div className="hero21-box">
                 <div className="hero21-para">
                     <h2>Contact Us</h2>
@@ -19,19 +15,12 @@ function Hero21() {
                     <p className="hero21-p1">Email: info@example.com</p>
                 </div>
             </div>
-
-
             <div className="hero21-box">
                 <div className="hero21-para">
                     <h2>Get Direction</h2>
                     <p className="hero21-p2">85 Bay Meadows Drive Woodstock, GA 30188, United States</p>
                 </div>
             </div>
-
-
-
-
-
             <div className="hero21-box">
                 <div className="hero21-para">
                     <h2>Opening Hours</h2>
@@ -55,26 +44,7 @@ function Hero21() {
                     </div>
                 </div>
             </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
         </div>
     )
 }
-
 export default Hero21
