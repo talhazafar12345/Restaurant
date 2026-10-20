@@ -4,8 +4,22 @@
 
 
 import { useState, useEffect } from "react";
+import { useNavigate } from "react-router-dom";
 import { Link } from "react-router-dom";
 function Hero1() {
+
+
+const location = useNavigate()
+
+
+const target=()=>{
+location("/order-page")
+
+}
+
+
+
+
     const [open, setOpen] = useState(false)
     useEffect(() => {
         return () => {
@@ -47,7 +61,7 @@ function Hero1() {
                 </div>
 
                  <div className="navBtn hero1btn">
-               <button>Order Online</button>
+               <button onClick={target}>Order Online</button>
                 </div>
                 <div onClick={openMenu} className="hamburger">
                     ☰
@@ -77,7 +91,7 @@ function Hero1() {
                 </Link>
 
                  <div className="navBtn">
-               <button>Order Online</button>
+               <button onClick={target}>Order Online</button>
                 </div>
             </div>
         </div>

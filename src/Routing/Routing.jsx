@@ -8,6 +8,7 @@ import Home from '../Pages/Home'
 import Menu from '../Pages/Menu'
 import Shop from '../Pages/Shop'
 import Contact from '../Pages/Contact'
+import Order from '../Pages/Order'
 
 function Routing() {
     const router = createBrowserRouter([
@@ -31,6 +32,13 @@ function Routing() {
             path: "/contact-page",
             element: <Contact />
         },
+
+
+          {
+            path: "/order-page",
+            element: <Order />
+        },
+
 
 
     ])
