@@ -1,5 +1,4 @@
 
-
 import { useState } from "react"
 import Swal from "sweetalert2";
 function Hero24() {
@@ -31,10 +30,10 @@ if(!formData.address){
 newErrors.address = "Please enter your address"
 }
 if(!formData.productname){
-newErrors.productname = "Please enter your Product Name"
+newErrors.productname = "Please enter your product name"
 }
 if(!formData.quantity){
-newErrors.quantity = "Please enter your Quantity"
+newErrors.quantity = "Please enter your quantity"
 }
 return newErrors
 }

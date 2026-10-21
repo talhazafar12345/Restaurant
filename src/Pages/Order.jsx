@@ -2,6 +2,7 @@ import Footer from "../Footer/Footer"
 import Hero1 from "../Sections/Hero1"
 import Hero23 from "../Sections/Hero23"
 import Hero24 from "../Sections/Hero24"
+import { useEffect } from "react"
 
 
 
@@ -9,6 +10,9 @@ import Hero24 from "../Sections/Hero24"
 
 
 function Order() {
+useEffect(()=>{
+  window.scrollTo(0,0)
+})
   return (
     <div>
     <Hero1 />

@@ -20,7 +20,7 @@ function Hero12() {
 
     <div className="hero12-para2">
         <p className="hero12-p">Recommended</p>
-        <h2>Smoke Brisket Sandwhich <span className="spa">------ </span><span className="sp2"> $39</span></h2>
+        <h2>Smoke Brisket Sandwich <span className="spa">------ </span><span className="sp2"> $39</span></h2>
         <p className="hero12-p1">Pulled Pork, Beer Braised Brisket, & Quarter Rack of Ribs served with your choice of side</p>
     </div>
    </div>
@@ -30,7 +30,7 @@ function Hero12() {
     </div>
     <div className="hero12-para2">
         <p className="hero12-p">Recommended</p>
-        <h2>Pull Chicken SandWhich<span className="spa"> ------ </span><span className="sp2"> $12</span></h2>
+        <h2>Pull Chicken SandWich<span className="spa"> ------ </span><span className="sp2"> $12</span></h2>
         <p className="hero12-p1">Pulled Pork, Beer Braised Brisket, & Quarter Rack of Ribs served with your choice of side</p>
     </div>
    </div>
@@ -42,7 +42,7 @@ function Hero12() {
     </div>
     <div className="hero12-para2">
         <p className="hero12-p">Recommended</p>
-        <h2>Pulled Chicken SandWhich<span className="spa">------ </span><span className="sp2"> $39</span></h2>
+        <h2>Pulled Chicken SandWich<span className="spa">------ </span><span className="sp2"> $39</span></h2>
         <p className="hero12-p1">Pulled Pork, Beer Braised Brisket, & Quarter Rack of Ribs served with your choice of side</p>
     </div>
    </div>

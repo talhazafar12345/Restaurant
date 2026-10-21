@@ -6,7 +6,7 @@ import { Link } from "react-router-dom"
 
 function Hero10() {
     return (
-        <div>
+        <div className="hero10">
 
 
             <div className="hero10-image">
