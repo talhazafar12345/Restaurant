@@ -7,8 +7,6 @@ import { Link } from "react-router-dom"
 function Hero10() {
     return (
         <div className="hero10">
-
-
             <div className="hero10-image">
                 <div className="hero10-image2">
                     <img src="https://demo-themewinter.com/gloreya/vegan/wp-content/uploads/sites/4/2019/10/logo.png" alt="" />
@@ -35,60 +33,30 @@ function Hero10() {
                     </div>
 
                 </div>
-
-
-
-
-
-
-
-
-
-
-
-
             </div>
 
             <div className="hero10-color">
                 <div className="hero10-flex2">
 
-            
-                  <div className="hero10-link">
-                    <Link to={"/"} className="hero10-all">Home</Link>
+
+                    <div className="hero10-link">
+                        <Link to={"/"} className="hero10-all">Home</Link>
+                    </div>
+
+                    <div className="hero10-link">
+                        <Link to={"/menu-page"} className="hero10-all">Menu</Link>
+                    </div>
+
+                    <div className="hero10-link">
+                        <Link to={"/shop-page"} className="hero10-all">Shop</Link>
+                    </div>
+
+                    <div className="hero10-link">
+                        <Link to={"/contact-page"} className="hero10-all">Contact</Link>
+                    </div>
                 </div>
 
-                <div className="hero10-link">
-                    <Link to={"/menu-page"} className="hero10-all">Menu</Link>
-                </div>
-
-                <div className="hero10-link">
-                    <Link to={"/shop-page"} className="hero10-all">Shop</Link>
-                </div>
-
-                <div className="hero10-link">
-                    <Link to={"/contact-page"} className="hero10-all">Contact</Link>
-                </div>
-                 </div>
-
- </div>
-
-           
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+            </div>
         </div>
     )
 }
