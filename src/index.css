@@ -839,8 +839,6 @@ body {
     line-height: 1.5;
     position: relative;
     top: 10px;
-
-
 }
 
 .hero21-p2 {
@@ -897,13 +895,12 @@ body {
 }
 
 
-.hero24-inp {
-    text-align: center;
-}
+
 
 
 .hero24 {
     margin-top: 80px;
+    margin-left: 50px;
 }
 
 
@@ -945,7 +942,13 @@ body {
 .error {
     color: red;
     text-align: left;
-    margin-left: 125px;
+    margin-left: 10px;
+}
+
+
+
+.swal2-height-auto {
+    height: auto !important;
 }
 
 
@@ -1527,6 +1530,8 @@ body {
         padding-bottom: 10px;
 
     }
+
+
 
     .hero22-map {
         margin-top: 80px;
@@ -2138,7 +2143,7 @@ body {
 
 
 @media screen and (min-width: 581px) and (max-width:820px) {
-   .navBar {
+    .navBar {
         height: 170px;
     }
 
@@ -3402,12 +3407,12 @@ body {
     }
 
     .navImage img {
-        margin-right: 31%;
-        width: 200px;
+        margin-right: 22%;
+        width: 240px;
     }
 
     .link {
-        font-size: 28px;
+        font-size: 21px;
     }
 
     .hero2-para h2 {
@@ -3455,7 +3460,7 @@ body {
     }
 
     .hero5-para {
-        width: 220px;
+        width: 215px;
     }
 
     .hero5-para h2 {
@@ -3471,6 +3476,7 @@ body {
 
     .hero5-para1 button {
         font-size: 20px;
+        margin-top: 0;
     }
 
     .bname {
@@ -3518,15 +3524,17 @@ body {
     }
 
     .hero9-image2 {
-        width: 310px;
+        width: 290px;
     }
 
     .hero9-image2 h2 {
-        font-size: 27px;
+        font-size: 25px;
+        width: 80%;
+        margin: auto;
     }
 
     .hero9-image2 p {
-        font-size: 23px;
+        font-size: 21px;
     }
 
     .hero10-image2 img {
@@ -3551,10 +3559,11 @@ body {
         text-align: center;
         gap: 0;
         padding-top: 70px;
+    }
 
 
-
-
+    .hero21-box {
+        width: 290px;
     }
 
 
@@ -3576,13 +3585,14 @@ body {
     .hero10-para p {
         font-size: 22px;
         text-align: center;
-        width: 80%;
+        width: 90%;
         margin: auto;
+        margin-top: 10px;
 
     }
 
     .hero10-all {
-        font-size: 30px !important;
+        font-size: 24px !important;
     }
 
     .hero12-image img {
@@ -3601,6 +3611,10 @@ body {
         top: 40px;
     }
 
+    .hero22-width {
+        width: 900px;
+    }
+
 
     .sp2 {
         font-size: 22px;
@@ -3616,6 +3630,7 @@ body {
 
     .hero12-flex2 {
         gap: 70px;
+        margin-left: 180px;
     }
 
 
@@ -3636,12 +3651,12 @@ body {
 
 
     .hero18-image img {
-        width: 220px;
+        width: 210px;
     }
 
 
     .hero18-para p {
-        font-size: 27px;
+        font-size: 23px;
     }
 
     .star {
@@ -3660,26 +3675,37 @@ body {
         font-size: 18px;
     }
 
+
+
+    .hero24 {
+        margin-left: 50px;
+    }
+
+
     .hero24-inp input {
         font-size: 26px;
-        width: 900px;
+        width: 800px;
     }
 
     .hero24-inp input::placeholder {
         font-size: 25px;
     }
 
+
+ 
     .hero24-btn button {
 
         width: 260px;
         height: 60px !important;
         font-size: 25px;
-
     }
 
+
     .error {
-        margin-left:6vw;
         font-size: 25px;
+        margin-left: 10px;
+
+
     }
 
 }
@@ -3687,7 +3713,7 @@ body {
 
 
 @media screen and (min-width: 1033px) and (max-width:1300px) {
-     .error {
-        margin-left:90px;
+    .error {
+        margin-left: 90px;
     }
 }
