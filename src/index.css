@@ -651,7 +651,6 @@ body {
     margin: auto;
     font-size: 17px;
     padding-top: 40px;
-
 }
 
 
@@ -2737,29 +2736,29 @@ body {
 
 
 @media screen and (min-width: 713px) and (max-width: 820px) {
-    .navBar{
-height: 170px;
-}
+    .navBar {
+        height: 170px;
+    }
 
 
-.navBtn button{
-font-size: 19px;
-width: 140px;
-height: 50px;
-}
+    .navBtn button {
+        font-size: 19px;
+        width: 140px;
+        height: 50px;
+    }
 
 
 
 
-.navImage img{
-    margin-right: 20px;
-}
-    
+    .navImage img {
+        margin-right: 20px;
+    }
 
-.link{
-    font-size: 19px;
-}
- 
+
+    .link {
+        font-size: 19px;
+    }
+
 
     .hero1-flex {
         flex-direction: row;
@@ -2826,14 +2825,14 @@ height: 50px;
     }
 
 
-    .hero3-para h3{
+    .hero3-para h3 {
         font-size: 23px;
     }
 
-    .hero3-para button{
-     width: 190px;
-     height: 50px;
-     font-size: 21px;
+    .hero3-para button {
+        width: 190px;
+        height: 50px;
+        font-size: 21px;
     }
 
 
@@ -2850,8 +2849,8 @@ height: 50px;
     }
 
 
-    .hero4-para1 h2{
-    font-size: 26px;
+    .hero4-para1 h2 {
+        font-size: 26px;
     }
 
 
@@ -2899,7 +2898,7 @@ height: 50px;
         height: 50px;
     }
 
-    .bname{
+    .bname {
         font-size: 35px !important;
     }
 
@@ -2976,7 +2975,7 @@ height: 50px;
     }
 
     .hero6-para2 h2 {
-        font-size: 32px !important ;
+        font-size: 32px !important;
         line-height: 1.9;
     }
 
@@ -3340,8 +3339,8 @@ height: 50px;
         font-size: 21px;
     }
 
-    .hero24-inp input::placeholder{
-    font-size: 21px;
+    .hero24-inp input::placeholder {
+        font-size: 21px;
     }
 
     .hero24-btn button {
@@ -3349,7 +3348,7 @@ height: 50px;
     }
 
     .error {
-        margin-left:75px;
+        margin-left: 75px;
         font-size: 21px;
     }
 
@@ -3358,32 +3357,32 @@ height: 50px;
 @media screen and (min-width: 821px) and (max-width: 920px) {
 
 
-  
-
-.navBar{
-height: 170px;
-}
 
 
-.navBtn button{
-font-size: 23px;
-width: 180px;
-height: 50px;
-}
+    .navBar {
+        height: 170px;
+    }
+
+
+    .navBtn button {
+        font-size: 23px;
+        width: 180px;
+        height: 50px;
+    }
 
 
 
 
-.navImage img{
-    margin-right: 10%;
-    width:200px;
-}
-    
+    .navImage img {
+        margin-right: 10%;
+        width: 200px;
+    }
 
-.link{
-    font-size: 21px;
-}
- 
+
+    .link {
+        font-size: 21px;
+    }
+
 
     .hero1-flex {
         flex-direction: row;
@@ -3400,7 +3399,6 @@ height: 50px;
         margin-top: 20px;
         position: relative;
         right: 10px;
-
     }
 
 
@@ -3450,14 +3448,14 @@ height: 50px;
     }
 
 
-    .hero3-para h3{
+    .hero3-para h3 {
         font-size: 23px;
     }
 
-    .hero3-para button{
-     width: 190px;
-     height: 50px;
-     font-size: 21px;
+    .hero3-para button {
+        width: 190px;
+        height: 50px;
+        font-size: 21px;
     }
 
 
@@ -3474,8 +3472,8 @@ height: 50px;
     }
 
 
-    .hero4-para1 h2{
-    font-size: 26px;
+    .hero4-para1 h2 {
+        font-size: 26px;
     }
 
 
@@ -3523,7 +3521,7 @@ height: 50px;
         height: 50px;
     }
 
-    .bname{
+    .bname {
         font-size: 35px !important;
     }
 
@@ -3600,7 +3598,7 @@ height: 50px;
     }
 
     .hero6-para2 h2 {
-        font-size: 32px !important ;
+        font-size: 32px !important;
         line-height: 1.9;
     }
 
@@ -3731,13 +3729,13 @@ height: 50px;
         padding-bottom: 20px;
     }
 
- 
 
-  .hero10-color {
-    padding-left: 0;
-    text-align: center;
-    width: 100%;
-}
+
+    .hero10-color {
+        padding-left: 0;
+        text-align: center;
+        width: 100%;
+    }
 
     .hero10-para h2 {
         font-size: 30px;
@@ -3846,7 +3844,7 @@ height: 50px;
         text-align: center;
     }
 
- 
+
 
     .hero12-p {
         width: 23% !important;
@@ -3854,7 +3852,7 @@ height: 50px;
         line-height: 0;
         margin-top: 10px;
         font-size: 21px;
-    
+
     }
 
     .spa {
@@ -3967,8 +3965,8 @@ height: 50px;
         font-size: 21px;
     }
 
-    .hero24-inp input::placeholder{
-    font-size: 21px;
+    .hero24-inp input::placeholder {
+        font-size: 21px;
     }
 
     .hero24-btn button {
@@ -3976,7 +3974,7 @@ height: 50px;
     }
 
     .error {
-        margin-left:10%;
+        margin-left: 10%;
         font-size: 21px;
     }
 }
@@ -3984,10 +3982,204 @@ height: 50px;
 
 
 
-@media screen and (min-width: 921px) and (max-width:1030px) {
-    
+@media screen and (min-width: 921px) and (max-width:1033px) {
+
+
+
+.hero2-para h2{
+font-size: 32px;
+}
+
+.hero2-para2 h1{
+font-size: 75px;
+}
+
+.hero4-image img{
+width: 400px;
+}
+
+.hero3-flex{
+margin-left: 60px;
+}
+
+
+.hero3-para{
+margin-left: 0;
+}
+
+.hero3-image img{
+width: 480px;
+}
+
+.hero3-para p{
+font-size: 25px;
+width: 80%;
+}
+
+.hero3-para button{
+width: 200px;
+height: 50px;
+font-size: 22px;
+}
+
+.hero4-para1 h2{
+font-size: 28px;
+}
+
+.hero4-para2 h1{
+font-size: 45px;
+}
+
+.hero5-para{
+width: 220px;
+}
+
+.hero5-para h2{
+font-size: 30px;
+width: 10vw;
+margin: auto;
+margin-top: 20px;
+}
+
+.hero5-para p{
+font-size: 21px;
+}
+
+.hero5-para1 button{
+font-size: 20px;
+}
+
+.bname{
+font-size: 30px !important;
+}
+
+.hero6-para1 h3{
+font-size: 30px;
+}
+
+.hero6-para{
+height: 1000px;
+}
+
+.hero7-image img{
+width: 450px;
+}
+
+.hero7-image2 img{
+width: 300px;
+}
+
+
+.hero8-para h3{
+font-size: 35px;
+}
+
+.hero8-para h1{
+width: 80%;
+margin: auto;
+}
+
+.hero8-para p{
+font-size: 28px;
+}
+
+.hero8-para button{
+width: 260px;
+height: 60px;
+font-size: 25px;
+}
+
+.hero9-para h3{
+font-size: 30px;
+}
+
+.hero9-image2{
+width: 310px;
+}
+
+.hero9-image2 h2{
+font-size: 27px;
+}
+
+.hero9-image2 p{
+font-size: 23px;
+}
+
+.hero10-image2 img{
+width: 200px;
+}
+
+.hero10-image2 p{
+font-size: 25px;
+}
+
+.hero10-para .hero10-time {
+    width: 100%;
 }
 
 
 
-@media screen and (min-width: 1031px) and (max-width:1300px) {}
+.hero10-flex {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    gap: 0;
+    padding-top: 70px;
+
+
+
+
+}
+
+
+.hero10-para {
+
+    width: 100%;
+    
+}
+
+.hero10-image{
+height: 780px;
+
+}
+
+.hero10-para h2{
+font-size: 30px;
+}
+
+.hero10-para p{
+font-size: 22px;
+text-align: center;
+width: 80%;
+margin: auto;
+
+}
+
+
+.hero10-all{
+font-size: 30px !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+@media screen and (min-width: 1033px) and (max-width:1300px) {}
