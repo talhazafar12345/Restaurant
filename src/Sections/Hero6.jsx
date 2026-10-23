@@ -10,13 +10,10 @@ function Hero6() {
 
 
     <div className="hero6-para">
-
     <div className="hero6-para1">
         <h3>INGREDIENT</h3>
         <h1>Baked with natural ingredient</h1>
     </div>
-
-  
     <div className="hero6-flex">
     <div className="hero6-para2">
     <h2>Fresh <span className="sp1"> Bread</span></h2>
@@ -27,8 +24,6 @@ function Hero6() {
     <p>As well known and we are very busy all days. Advice you to call us before arriving so we.</p>
     </div>
     </div>
-
-
 
     <div className="hero6-flex">
     <div className="hero6-para2">

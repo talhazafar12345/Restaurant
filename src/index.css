@@ -1751,7 +1751,7 @@ body {
     .hero6-para {
         display: flex;
         flex-direction: column;
-        height: 1580px;
+        height: 1365px;
     }
 
     .hero6-para1 {
@@ -1853,7 +1853,7 @@ body {
 
     .hero7-image img {
         width: 80vw;
-        height: 189px;
+        height: 290px;
         margin: auto;
     }
 
@@ -2130,13 +2130,14 @@ body {
         margin-top: 80px;
     }
 
+    .hero24-inp{
+    margin-left: 30px;
+    }
+
     .hero24-inp input {
         width: 80%;
     }
 
-    .error {
-        margin-left: 40px;
-    }
 }
 
 
@@ -3719,12 +3720,7 @@ body {
 
 
 @media screen and (min-width: 1033px) and (max-width:1300px) {
-    .error {
-        margin-left: 90px;
-    }
+ 
 
-    .hero24{
-        text-align: center;
-        margin-left: 0;
-    }
+   
 }
