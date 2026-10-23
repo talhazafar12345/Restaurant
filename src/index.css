@@ -895,12 +895,12 @@ body {
 }
 
 
-
-
-
 .hero24 {
     margin-top: 80px;
-    margin-left: 50px;
+}
+
+.hero24-inp{
+    margin-left: 70px;
 }
 
 
@@ -1530,25 +1530,20 @@ body {
         padding-bottom: 10px;
     }
 
-
-
     .hero22-map {
         margin-top: 80px;
     }
 
-    .hero24{
-        margin-left: 0;
-        text-align: center;
-        margin-right: 10px;
+    .hero24-inp{
+    margin-left: 30px;
     }
 
-    .hero24-inp input {
-        width: 80%;
+    .hero24-inp input{
+        width: 85%;
     }
 
-    .error {
-        margin-left: 40px;
-    }
+
+ 
 
 }
 
@@ -2755,7 +2750,6 @@ body {
     }
 
     .hero24{
-        text-align: center;
         margin-left: 0;
     }
 
@@ -2768,7 +2762,6 @@ body {
     }
 
     .error {
-        margin-left: 10%;
         font-size: 21px;
     }
 
@@ -3391,7 +3384,6 @@ body {
     }
 
     .hero24{
-    text-align: center;
     margin-left: 0;
     }
 
@@ -3400,7 +3392,6 @@ body {
     }
 
     .error {
-        margin-left: 10%;
         font-size: 21px;
     }
 }
@@ -3691,11 +3682,13 @@ body {
     }
 
 
+     .hero24{
+        text-align: left;
+     }
 
-    .hero24 {
-        margin-left: 50px;
-    }
-
+     .hero24-inp{
+        margin-left: 80px;
+     }
 
     .hero24-inp input {
         font-size: 26px;
@@ -3705,7 +3698,6 @@ body {
     .hero24-inp input::placeholder {
         font-size: 25px;
     }
-
 
  
     .hero24-btn button {
@@ -3718,7 +3710,6 @@ body {
 
     .error {
         font-size: 25px;
-        margin-left: 10px;
 
 
     }
